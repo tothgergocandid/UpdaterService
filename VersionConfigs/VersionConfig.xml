@@ -9,7 +9,7 @@
           <VersionLabel>1.0.0.0</VersionLabel>
           <VersionPath>1_0_0_0</VersionPath>
         </ModuleVersionData>
-        <ModuleVersionData> 
+        <ModuleVersionData>
           <VersionLabel>1.0.0.1</VersionLabel>
           <VersionPath>1_0_0_1</VersionPath>
         </ModuleVersionData>
@@ -20,6 +20,10 @@
         <ModuleVersionData>
           <VersionLabel>1.0.0.3</VersionLabel>
           <VersionPath>1_0_0_3</VersionPath>
+        </ModuleVersionData>
+		<ModuleVersionData>
+          <VersionLabel>1.0.0.4</VersionLabel>
+          <VersionPath>1_0_0_4</VersionPath>
         </ModuleVersionData>
       </ValidVersions>
       <BestVersion>1.0.0.3</BestVersion>
