@@ -13,20 +13,8 @@
           <VersionLabel>1.0.0.1</VersionLabel>
           <VersionPath>1_0_0_1</VersionPath>
         </ModuleVersionData>
-        <ModuleVersionData>
-          <VersionLabel>1.0.0.2</VersionLabel>
-          <VersionPath>1_0_0_2</VersionPath>
-        </ModuleVersionData>
-        <ModuleVersionData>
-          <VersionLabel>1.0.0.3</VersionLabel>
-          <VersionPath>1_0_0_3</VersionPath>
-        </ModuleVersionData>
-		<ModuleVersionData>
-          <VersionLabel>1.0.0.4</VersionLabel>
-          <VersionPath>1_0_0_4</VersionPath>
-        </ModuleVersionData>
       </ValidVersions>
-      <BestVersion>1.0.0.3</BestVersion>
+      <BestVersion>1.0.0.1</BestVersion>
     </ModuleData>
   </ValidModules>
   <Units>
@@ -37,34 +25,6 @@
         <Module>
           <Name>TestWindowsService</Name>
           <Version>1.0.0.0</Version>
-        </Module>
-      </InstalledModules>
-    </DPUConfiguration>
-    <DPUConfiguration>
-      <Name>DPU2</Name>
-      <Identity>102</Identity>
-      <InstalledModules>
-        <Module>
-          <Name>TestWindowsService</Name>
-          <Version>1.0.0.3</Version>
-        </Module>
-        <Module>
-          <Name>TestWindowsService2</Name>
-          <Version>9.9.9.0</Version>
-        </Module>
-      </InstalledModules>
-    </DPUConfiguration>
-    <DPUConfiguration>
-      <Name>DPU3</Name>
-      <Identity>103</Identity>
-      <InstalledModules>
-        <Module>
-          <Name>TestWindowsService</Name>
-          <Version>1.0.0.3</Version>
-        </Module>
-        <Module>
-          <Name>TestWindowsService2</Name>
-          <Version>9.9.9.0</Version>
         </Module>
       </InstalledModules>
     </DPUConfiguration>
