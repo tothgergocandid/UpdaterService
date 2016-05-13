@@ -2,14 +2,14 @@
 <VersionConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ValidModules>
     <ModuleData>
-      <ModuleName>DPU service</ModuleName>
+      <ModuleName>TestWindowsService</ModuleName>
       <ModuleGitPath>DPU\TestWindowsService\</ModuleGitPath>
       <ValidVersions>
         <ModuleVersionData>
           <VersionLabel>1.0.0.0</VersionLabel>
           <VersionPath>1_0_0_0</VersionPath>
         </ModuleVersionData>
-        <ModuleVersionData>
+        <ModuleVersionData> 
           <VersionLabel>1.0.0.1</VersionLabel>
           <VersionPath>1_0_0_1</VersionPath>
         </ModuleVersionData>
